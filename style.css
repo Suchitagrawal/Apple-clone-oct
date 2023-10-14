@@ -1,0 +1,21 @@
+.nav-bar{
+    background-color: black;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    /* margin-inline: 50px; */
+    padding-inline: 200px;
+    padding-block: 20px;
+}
+
+.nav-bar a{
+    color: white;
+    text-decoration: none;
+}
+
+.top-bar{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
